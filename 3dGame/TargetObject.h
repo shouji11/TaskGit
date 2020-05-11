@@ -9,6 +9,11 @@ public:
 	TargetObj();
 	~TargetObj();
 
+
+
+	void Draw();
+
+
 private:
 
 
